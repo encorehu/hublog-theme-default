@@ -1,4 +1,4 @@
-hublog-theme-dedault
+hublog-theme-default
 ====================
 
 hublog theme default
